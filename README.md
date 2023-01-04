@@ -1,0 +1,15 @@
+### TODO
+- [ ] Parsing number of files from directory
+- [ ] Tests
+- [ ] Documentation
+- [ ] Logging
+- [ ] Parsing directories recursively
+    - [ ] Add depth limit
+    - [ ] Add file extension filter
+    - [ ] Add recursive directory parsing
+- Supported SQL languages
+    - [ ] MySQL
+    - [ ] PostgreSQL
+    - [ ] SQLite
+    - [ ] Clickhouse
+    - [ ] MongoDB
